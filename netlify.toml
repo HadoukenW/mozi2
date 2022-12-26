@@ -1,0 +1,24 @@
+[[redirects]]
+  from = "/*"
+  to = "/mozi.html"
+  status = 200
+
+  [[redirects]]
+  from = "/*"
+  to = "/about.html"
+  status = 200
+
+  [[redirects]]
+  from = "/*"
+  to = "/contact.html"
+  status = 200
+
+  [[redirects]]
+  from = "/*"
+  to = "/products.html"
+  status = 200
+
+  [[redirects]]
+  from = "/*"
+  to = "/career.html"
+  status = 200
